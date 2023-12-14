@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mini-prjt.git/static/css/main.1d38db70.css",
-    "main.js": "/mini-prjt.git/static/js/main.61406ebc.js",
+    "main.js": "/mini-prjt.git/static/js/main.17507f8b.js",
     "static/js/787.866a9283.chunk.js": "/mini-prjt.git/static/js/787.866a9283.chunk.js",
     "static/media/bg3.jpg": "/mini-prjt.git/static/media/bg3.116aa4475e5fe2a812f4.jpg",
     "static/media/bg1.png": "/mini-prjt.git/static/media/bg1.0e5919e9a1c0b98fa78d.png",
@@ -49,11 +49,11 @@
     "static/media/thislogo-removebg-preview.png": "/mini-prjt.git/static/media/thislogo-removebg-preview.ef7f9c850ae3162a6a13.png",
     "index.html": "/mini-prjt.git/index.html",
     "main.1d38db70.css.map": "/mini-prjt.git/static/css/main.1d38db70.css.map",
-    "main.61406ebc.js.map": "/mini-prjt.git/static/js/main.61406ebc.js.map",
+    "main.17507f8b.js.map": "/mini-prjt.git/static/js/main.17507f8b.js.map",
     "787.866a9283.chunk.js.map": "/mini-prjt.git/static/js/787.866a9283.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d38db70.css",
-    "static/js/main.61406ebc.js"
+    "static/js/main.17507f8b.js"
   ]
 }
